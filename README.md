@@ -1,3 +1,3 @@
 # CaesarCipher
 
-Excercises to understand python programming
+Excercise to understand python programming
